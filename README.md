@@ -1,6 +1,33 @@
 <h1>Hi 👋, I'm Nekrasov Pavel</h1>
 <h3>A passionate developer and data science consultant who empowers companies to extract value from their data.</h3>
 
+<p align="center">
+  <a href="https://codepen.io/nekrasovp" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nekrasovp" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/nekrasovp1" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nekrasovp1" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/nekrasovp" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nekrasovp" height="30" width="30" />
+  </a>
+  <a href="https://codesandbox.com/nekrasovp" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="nekrasovp" height="30" width="30" />
+  </a>
+  <a href="https://kaggle.com/rfplstat" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rfplstat" height="30" width="30" />
+  </a>
+  <a href="https://fb.com/nekrasovp" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nekrasovp" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/nekrasovp" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nekrasovp" height="30" width="30" />
+  </a>
+  <a href="https://dribbble.com/Nekrasovp" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="pavel nekrasov" height="30" width="30" />
+  </a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekrasovp&style=plastic&color=green" alt="nekrasovp" /> </p>
 
 - 🌱 I’m currently learning AI, ML and Blockchain
@@ -8,11 +35,6 @@
 - 💬 Ask me about Python/Finance/Docker
 - 📫 How to reach me **nekrasovp@gmail.com**
 
-<p>
-  &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-</p>
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
@@ -43,29 +65,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekrasovp&show_icons=true&count_private=true&theme=buefy&include_all_commits=True " alt="nekrasovp" />
 </p>
 
-<p align="center">
-  <a href="https://codepen.io/nekrasovp" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nekrasovp" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/nekrasovp1" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nekrasovp1" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/nekrasovp" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nekrasovp" height="30" width="30" />
-  </a>
-  <a href="https://codesandbox.com/nekrasovp" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="nekrasovp" height="30" width="30" />
-  </a>
-  <a href="https://kaggle.com/rfplstat" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rfplstat" height="30" width="30" />
-  </a>
-  <a href="https://fb.com/nekrasovp" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nekrasovp" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/nekrasovp" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nekrasovp" height="30" width="30" />
-  </a>
-  <a href="https://dribbble.com/Nekrasovp" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="pavel nekrasov" height="30" width="30" />
-  </a>
+<p>
+  &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 </p>
