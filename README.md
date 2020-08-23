@@ -59,8 +59,10 @@
 
 &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+- [Move blog to github and automate deploying with git hooks](https://nekrasovp.github.io/pelican-github-script-automation.html)
+- [Pascal's Triangle](https://nekrasovp.github.io/pascals-triangle.html)
+- [Simulating a Galton board with Markov chains](https://nekrasovp.github.io/markov-chain-bean-machine.html)
+- [Use Cython to speed up your Python code](https://nekrasovp.github.io/use-cython-to-speedup-your-python-code.html)<!-- BLOG-POST-LIST:END -->
 
 
 <p>
