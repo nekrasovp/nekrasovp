@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Nekrasov Pavel</h1>
-<h3>A passionate developer and data science consultant who empowers companies to extract value from their data.</h3>
+<h1 align="center">Hi 👋, I'm Nekrasov Pavel</h1>
+<h3 align="center">A passionate developer and data science consultant who empowers companies to extract value from their data.</h3>
 
 <p align="center">
   <a href="https://codepen.io/nekrasovp" target="blank">
@@ -62,7 +62,7 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekrasovp&show_icons=true&count_private=true&theme=buefy&include_all_commits=True " alt="nekrasovp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekrasovp&show_icons=true&hide=contribs,prs&count_private=true&theme=buefy&include_all_commits=Tre&include_all_commits=True&layout=compact&card_width=200 " alt="nekrasovp" />
 </p>
 
 <p>
