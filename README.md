@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nekrasov Pavel</h1>
-<h3 align="center">A passionate developer and data science consultant who empowers companies to extract value from their data.</h3>
+##Hi 👋, I'm Nekrasov Pavel
+###A passionate developer and data science consultant who empowers companies to extract value from their data.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekrasovp&style=plastic&color=green" alt="nekrasovp" /> </p>
 
+- 🌱 I’m currently learning AI, ML and Blockchain
 - 📝 I regulary write articles on [https://nekrasovp.github.io/](https://nekrasovp.github.io/)
+- 💬 Ask me about Python/Finance/Docker
 - 📫 How to reach me **nekrasovp@gmail.com**
+
+<p>
+  &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</p>
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
