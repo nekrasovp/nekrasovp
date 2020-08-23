@@ -51,11 +51,17 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   &nbsp;&nbsp;&nbsp; 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
 </p>
+
+
+  &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
+  <!-- BLOG-POST-LIST:START -->
+
+  <!-- BLOG-POST-LIST:END -->
+
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekrasovp&layout=compact&hide=html&count_private=true" alt="nekrasovp" />
@@ -63,10 +69,4 @@
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekrasovp&show_icons=true&hide=contribs,prs&count_private=true&theme=buefy&include_all_commits=Tre&include_all_commits=True&layout=compact&card_width=200 " alt="nekrasovp" />
-</p>
-
-<p>
-  &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
 </p>
