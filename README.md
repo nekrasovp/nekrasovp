@@ -1,5 +1,5 @@
-##Hi 👋, I'm Nekrasov Pavel
-###A passionate developer and data science consultant who empowers companies to extract value from their data.
+<h1>Hi 👋, I'm Nekrasov Pavel</h1>
+<h3>A passionate developer and data science consultant who empowers companies to extract value from their data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekrasovp&style=plastic&color=green" alt="nekrasovp" /> </p>
 
