@@ -57,10 +57,10 @@
 </p>
 
 
-  &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
-  <!-- BLOG-POST-LIST:START -->
+&nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
 
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <p>
@@ -70,17 +70,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nekrasovp&show_icons=true&hide=contribs,prs&count_private=true&theme=buefy&include_all_commits=Tre&include_all_commits=True&layout=compact&card_width=200 " alt="nekrasovp" />
 </p>
-<<<<<<< HEAD
-=======
-
-<p>
-  &nbsp;&nbsp;📕 &nbsp;Latest Blog Posts
-  <!-- BLOG-POST-LIST:START -->
-- [Move blog to github and automate deploying with git hooks](https://nekrasovp.github.io/pelican-github-script-automation.html)
-- [Pascal's Triangle](https://nekrasovp.github.io/pascals-triangle.html)
-- [Simulating a Galton board with Markov chains](https://nekrasovp.github.io/markov-chain-bean-machine.html)
-- [Use Cython to speed up your Python code](https://nekrasovp.github.io/use-cython-to-speedup-your-python-code.html)
-- [Number sequences visualisation with python](https://nekrasovp.github.io/number-sequences.html)
-<!-- BLOG-POST-LIST:END -->
-</p>
->>>>>>> 7fc1db447fdd7cde7251425b0d2a0254e02f5ffc
