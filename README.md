@@ -41,10 +41,10 @@ AI and ML application for solving problems of mathematical economics and managem
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get well-developed IT solution](https://nekrasovp.github.io/business-it-solutions.html)
 - [Move blog to github and automate deploying with git hooks](https://nekrasovp.github.io/pelican-github-script-automation.html)
 - [Essay(simple paper) template](https://nekrasovp.github.io/essay-paper-template.html)
-- [Pascal's Triangle](https://nekrasovp.github.io/pascals-triangle.html)
-- [Simulating a Galton board with Markov chains](https://nekrasovp.github.io/markov-chain-bean-machine.html)<!-- BLOG-POST-LIST:END -->
+- [Pascal's Triangle](https://nekrasovp.github.io/pascals-triangle.html)<!-- BLOG-POST-LIST:END -->
 
 ### 📑 Dev ecosystem
 
