@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '1 10 * * 5'
 
 jobs:
   update-readme-with-blog:
@@ -12,6 +12,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          gh_token: "2dfb89fa4daeaecefa97069409f541aac6c9615b"
           feed_list: "https://nekrasovp.github.io/feeds/blog.atom.xml"
-          max_post_count: "4"
+          max_post_count: "5"
           template: "$newline- [$title]($url)"
+          committer_username: "Nekrasovp"
+          committer_email: "7581719+nekrasovp@users.noreply.github.com"
