@@ -54,10 +54,12 @@ AI and ML application for solving problems of mathematical economics and managem
 
 - ## 🥁 <img src="https://raw.githubusercontent.com/amido/azure-vector-icons/master/renders/sql-database-generic.png" alt="sql-database-generic" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
 
-### ⚡ Fun facts and counters
+### ⚡ Fun facts
 
 ![nekrasovp](https://komarev.com/ghpvc/?username=nekrasovp&style=plastic&color=green)
-
+<!--
 ![nekrasovp](https://github-readme-stats.vercel.app/api/top-langs/?username=nekrasovp&layout=compact&hide=html&count_private=true)
-
+-->
+<!--
 ![nekrasovp](https://github-readme-stats.vercel.app/api?username=nekrasovp&show_icons=true&hide=contribs,prs&count_private=true&theme=buefy&include_all_commits=Tre&include_all_commits=True&layout=compact&card_width=200)
+-->
