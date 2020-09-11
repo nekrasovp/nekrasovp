@@ -41,6 +41,7 @@ AI and ML application for solving problems of mathematical economics and managem
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Publishing articles workflow](https://nekrasovp.github.io/publishing-articles-workflow.html)
 - [How to get well-developed IT solution](https://nekrasovp.github.io/business-it-solutions.html)
 - [Move blog to github and automate deploying with git hooks](https://nekrasovp.github.io/pelican-github-script-automation.html)
 - [Essay(simple paper) template](https://nekrasovp.github.io/essay-paper-template.html)
