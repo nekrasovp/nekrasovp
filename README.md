@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-AI and ML application for solving problems of mathematical economics and management
+Building a Full-stack App with React and Node Js
 
 ### 📫 How to reach me
 
