@@ -41,6 +41,7 @@ Building a Full-stack App with React and Node Js
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand GraphQL Schema](https://nekrasovp.github.io/graphql-schema.html)
 - [Just another COVID-19 data visualisation](https://nekrasovp.github.io/covid-dashboard.html)
 - [How to share data with a statistician](https://nekrasovp.github.io/share-data.html)
 - [Publishing articles workflow](https://nekrasovp.github.io/publishing-articles-workflow.html)
