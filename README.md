@@ -37,6 +37,9 @@ Building a Full-stack App with React and Node Js
   <a href="https://codesandbox.com/nekrasovp" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="nekrasovp" height="20" width="20" />
   </a>
+  <a href="https://www.codewars.com/users/nekrasovp@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="nekrasovp" height="20" width="20" />
+  </a>
 </p>
 
 ### 📝 Latest Blog Posts
