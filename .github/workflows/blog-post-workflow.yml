@@ -3,7 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '1 10 * * 5'
-
+  workflow_dispatch:
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          gh_token: "2dfb89fa4daeaecefa97069409f541aac6c9615b"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://nekrasovp.github.io/feeds/blog.atom.xml"
           max_post_count: "5"
           template: "$newline- [$title]($url)"
