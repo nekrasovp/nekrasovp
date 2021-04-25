@@ -44,12 +44,11 @@ Building a Full-stack App with React and Node Js
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Obstacles to successful devops](https://nekrasovp.github.io/devops-questions.html)
+- [Визуализации картографических данных в Jupyter notebook](https://nekrasovp.github.io/mkrf-spb-geo-data.html)
+- [Шаблон ретроспективы](https://nekrasovp.github.io/retrospective-template.html)
 - [Understand GraphQL Schema](https://nekrasovp.github.io/graphql-schema.html)
-- [Just another COVID-19 data visualisation](https://nekrasovp.github.io/covid-dashboard.html)
-- [How to share data with a statistician](https://nekrasovp.github.io/share-data.html)
-- [Publishing articles workflow](https://nekrasovp.github.io/publishing-articles-workflow.html)
-- [How to get well-developed IT solution](https://nekrasovp.github.io/business-it-solutions.html)
-- [Move blog to github and automate deploying with git hooks](https://nekrasovp.github.io/pelican-github-script-automation.html)<!-- BLOG-POST-LIST:END -->
+- [Just another COVID-19 data visualisation](https://nekrasovp.github.io/covid-dashboard.html)<!-- BLOG-POST-LIST:END -->
 
 ### 📑 Dev ecosystem
 
