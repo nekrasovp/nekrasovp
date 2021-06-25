@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-Building a Full-stack App with React and Node Js
+Building a Financial App with Plotly/Dash(Flask)
 
 ### 📫 How to reach me
 
