@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-Building a Financial App with Plotly/Dash(Flask)
+Building an ETL pipelines for financial applications in Python.
 
 ### 📫 How to reach me
 
@@ -44,19 +44,19 @@ Building a Financial App with Plotly/Dash(Flask)
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Nginx, Gunicorn for Flask app](https://nekrasovp.github.io/setting-up-nginx-gunicorn-flask.html)
+- [Building job queue with RabitMQ and aiopika](https://nekrasovp.github.io/building-job-queue.html)
+- [Setting Up GitLab CI for a Python Application](https://nekrasovp.github.io/setting-up-gitlab-ci.html)
 - [Obstacles to successful devops](https://nekrasovp.github.io/devops-questions.html)
-- [Визуализации картографических данных в Jupyter notebook](https://nekrasovp.github.io/mkrf-spb-geo-data.html)
-- [Шаблон ретроспективы](https://nekrasovp.github.io/retrospective-template.html)
-- [Understand GraphQL Schema](https://nekrasovp.github.io/graphql-schema.html)
-- [Just another COVID-19 data visualisation](https://nekrasovp.github.io/covid-dashboard.html)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 📑 Dev ecosystem
 
-- ## 🎷 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gh" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20" height="20"/>
+- ## 🎷 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="gh" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="20" height="20"/>
 
-- ## 🎸 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="20" height="20"/>
+- ## 🎸 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="20" height="20"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/36423c86ef0763e85658bf88e681e967ce634363/icons/fastapi.svg" alt="fastapi" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="20" height="20"/>
 
-- ## 🥁 <img src="https://raw.githubusercontent.com/amido/azure-vector-icons/master/renders/sql-database-generic.png" alt="sql-database-generic" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="flask" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="20" height="20"/>
+- ## 🥁 <img src="https://raw.githubusercontent.com/amido/azure-vector-icons/master/renders/sql-database-generic.png" alt="sql-database-generic" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="flask" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxDB"  width="20" height="20"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/36423c86ef0763e85658bf88e681e967ce634363/icons/timescale.svg" alt="TimescaleDB"  width="20" height="20"/> <img src="https://cdn.worldvectorlogo.com/logos/clickhouse.svg" alt="Clickhouse"  width="20" height="20"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="InfluxDB"  width="20" height="20"/>
 
 
 ### ⚡ Fun facts
