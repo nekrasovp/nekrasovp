@@ -44,11 +44,11 @@ Building an ETL pipelines for financial applications in Python.
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Nginx, Gunicorn for Flask app](https://nekrasovp.github.io/setting-up-nginx-gunicorn-flask.html)
-- [Building job queue with RabitMQ and aiopika](https://nekrasovp.github.io/building-job-queue.html)
-- [Setting Up GitLab CI for a Python Application](https://nekrasovp.github.io/setting-up-gitlab-ci.html)
-- [Obstacles to successful devops](https://nekrasovp.github.io/devops-questions.html)
-<!-- BLOG-POST-LIST:END -->
+- [Custom logger handlers](https://nekrasovp.github.io/custom-logger.html)
+- [Custom color formatter with Python logging](https://nekrasovp.github.io/color-formatter.html)
+- [Analytics checklist](https://nekrasovp.github.io/analytics-checklist.html)
+- [Install nvm, node and yarn for your Node.js application](https://nekrasovp.github.io/install-nvm-node-yarn.html)
+- [Setting Up Nginx, Gunicorn for Flask app](https://nekrasovp.github.io/setting-up-nginx-gunicorn-flask.html)<!-- BLOG-POST-LIST:END -->
 
 ### 📑 Dev ecosystem
 
