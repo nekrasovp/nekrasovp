@@ -44,11 +44,11 @@ Building an ETL pipelines for financial applications in Python.
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you need Python Global Interpreter Lock and how it works](https://nekrasovp.github.io/python-gil.html)
 - [Ways to find out which process is listening on a specific port](https://nekrasovp.github.io/linux-port.html)
 - [Custom logger handlers](https://nekrasovp.github.io/custom-logger.html)
 - [Custom color formatter with Python logging](https://nekrasovp.github.io/color-formatter.html)
-- [Analytics checklist](https://nekrasovp.github.io/analytics-checklist.html)
-- [Install nvm, node and yarn for your Node.js application](https://nekrasovp.github.io/install-nvm-node-yarn.html)<!-- BLOG-POST-LIST:END -->
+- [Analytics checklist](https://nekrasovp.github.io/analytics-checklist.html)<!-- BLOG-POST-LIST:END -->
 
 ### 📑 Dev ecosystem
 
