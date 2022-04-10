@@ -44,11 +44,11 @@ Building an ETL pipelines.
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Nginx, Gunicorn for Flask app](https://nekrasovp.github.io/setting-up-nginx-gunicorn-flask.html)
-- [Building job queue with RabitMQ and aiopika](https://nekrasovp.github.io/building-job-queue.html)
-- [Setting Up GitLab CI for a Python Application](https://nekrasovp.github.io/setting-up-gitlab-ci.html)
-- [Obstacles to successful devops](https://nekrasovp.github.io/devops-questions.html)
-<!-- BLOG-POST-LIST:END -->
+- [Capturing shell output in python](https://nekrasovp.github.io/shell-capture.html)
+- [Why you need Python Global Interpreter Lock and how it works](https://nekrasovp.github.io/python-gil.html)
+- [Ways to find out which process is listening on a specific port](https://nekrasovp.github.io/linux-port.html)
+- [Custom logger handlers](https://nekrasovp.github.io/custom-logger.html)
+- [Custom color formatter with Python logging](https://nekrasovp.github.io/color-formatter.html)<!-- BLOG-POST-LIST:END -->
 
 ### 📑 Dev ecosystem
 
