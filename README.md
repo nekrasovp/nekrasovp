@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-Building an ETL pipelines for financial applications in Python.
+Building an ETL pipelines.
 
 ### 📫 How to reach me
 
