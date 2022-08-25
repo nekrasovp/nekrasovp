@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-Building an ETL pipelines.
+[ML and AI in the problem of mathematical economics.](http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=28&confid=1349)
 
 ### 📫 How to reach me
 
