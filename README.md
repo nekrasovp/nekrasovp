@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-[ML and AI in the problem of mathematical economics.](http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=28&confid=1349)
+[Mastering Go Programming Language](https://www.gopl.io/)
 
 ### 📫 How to reach me
 
@@ -41,14 +41,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="nekrasovp" height="20" width="20" />
   </a>
 </p>
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Capturing shell output in python](https://nekrasovp.github.io/shell-capture.html)
-- [Why you need Python Global Interpreter Lock and how it works](https://nekrasovp.github.io/python-gil.html)
-- [Ways to find out which process is listening on a specific port](https://nekrasovp.github.io/linux-port.html)
-- [Custom logger handlers](https://nekrasovp.github.io/custom-logger.html)
-- [Custom color formatter with Python logging](https://nekrasovp.github.io/color-formatter.html)<!-- BLOG-POST-LIST:END -->
 
 ### 📑 Dev ecosystem
 
