@@ -11,7 +11,7 @@
 
 - 🔗 I have a [personal page](https://nekrasovp.github.io/pages/about.html) where all my social network links are located! You can reach me anywhere over there
 - 📝 I have a blog at [nekrasovp.github.io](https://nekrasovp.github.io/category/blog.html)
-- 💬 [Telegram](https://t.me/def12)
+- 💬 Send me a message with [Telegram](https://t.me/def12)
 - 📧 You can also send me an [e-mail](mailto:nekrasovp@gmail.com)
 
 <!-- Social links -->
