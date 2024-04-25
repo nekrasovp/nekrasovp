@@ -5,7 +5,7 @@
 
 ### 🌱 I’m currently learning
 
-[Mastering Go Programming Language](https://www.gopl.io/)
+Building Distributed and Reliable Microservices Systems
 
 ### 📫 How to reach me
 
