@@ -28,7 +28,7 @@ I also hold an MBA in Logistics and Supply Chain Management from HSE University.
 
 ## Writing
 
-I write about backend and distributed systems, platform engineering, technical leadership, engineering effectiveness, AI-native delivery workflows, and lessons that connect software with real-world operations.
+I write about backend and distributed systems, platform engineering, technical leadership, engineering effectiveness, AI-assisted delivery workflows, and lessons that connect software with real-world operations.
 
 - LinkedIn: [nekrasovp](https://www.linkedin.com/in/nekrasovp/)
 - Telegram: [def12](https://t.me/def12)
