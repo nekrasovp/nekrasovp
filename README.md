@@ -1,22 +1,22 @@
 # Pavel Nekrasov
 
-Hands-on CTO / Tech Lead and backend & platform engineer.
+Tech Lead and staff-level backend & platform engineer.
 
 I build backend systems, internal platforms, engineering workflows, and early-stage products where architecture, delivery, and business context need to meet. I stay close to the code while leading technical direction, hiring, and engineering effectiveness.
 
 ## Current focus
 
 - Leading backend architecture and engineering practices at Navio
-- Automating SDLC/PDLC workflows and introducing AI-native engineering practices
-- Building ArbLense by HZProtocol as Co-founder and CTO
+- Piloting AI-assisted SDLC/PDLC workflows with explicit human-controlled decisions
+- Building ArbLense by HZProtocol as a part-time Co-founder and CTO
 - Developing open-source Python tools and production-oriented reference projects
 
 ## Selected work
 
 | Project | What it demonstrates |
 | --- | --- |
-| [predxt](https://github.com/hzprotocol/predxt) | Typed Python SDK and infrastructure for prediction-market products |
 | [uuidv7](https://github.com/nekrasovp/uuidv7) | High-performance RFC 9562 UUIDv7 implementation for Python |
+| [predxt](https://github.com/hzprotocol/predxt) | Typed Python SDK and infrastructure for prediction-market products |
 | [dash-auth-flask-nginx](https://github.com/nekrasovp/dash-auth-flask-nginx) | A practical, production-oriented authentication starter |
 | [FastAPI with OPA on Kubernetes](https://github.com/nekrasovp/fastapi-with-opa-on-kubernetes) | Authorization architecture with FastAPI, OPA, and Kubernetes |
 
@@ -30,6 +30,5 @@ I also hold an MBA in Logistics and Supply Chain Management from HSE University.
 
 I write about backend and distributed systems, platform engineering, technical leadership, engineering effectiveness, AI-native delivery workflows, and lessons that connect software with real-world operations.
 
-- Website and writing: [nekrasovp.ru](https://nekrasovp.ru)
 - LinkedIn: [nekrasovp](https://www.linkedin.com/in/nekrasovp/)
 - Telegram: [def12](https://t.me/def12)
