@@ -18,7 +18,7 @@ I build backend systems, internal platforms, engineering workflows, and early-st
 | [predxt](https://github.com/hzprotocol/predxt) | Typed Python SDK and infrastructure for prediction-market products |
 | [uuidv7](https://github.com/nekrasovp/uuidv7) | High-performance RFC 9562 UUIDv7 implementation for Python |
 | [dash-auth-flask-nginx](https://github.com/nekrasovp/dash-auth-flask-nginx) | A practical, production-oriented authentication starter |
-| [FastAPI with OPA on Kubernetes](https://github.com/nekrasovp/fastapi-with-opa-on-kubernates) | Authorization architecture with FastAPI, OPA, and Kubernetes |
+| [FastAPI with OPA on Kubernetes](https://github.com/nekrasovp/fastapi-with-opa-on-kubernetes) | Authorization architecture with FastAPI, OPA, and Kubernetes |
 
 ## Background
 
